@@ -26,7 +26,7 @@ If you get totally stuck drop by the chatroom.. someone will be there to point y
 3. Set up a "hover" effect so that the grid divs change color when your mouse passes over them, leaving a \(pixelated\) trail through your grid like a pen would.
    1. Hint: "hovering" is what happens when your mouse enters a div and ends when your mouse leaves it.. you can set up event listeners for either of those events as a starting point.
    2. There are multiple ways to change the color of the divs, including:
-      1. adding a new class to the div
+      1. adding a new class to the sdiv
       2. changing the div's background color using JavaScript.
 4. Add a button to the top of the screen which will clear the current grid and send the user a popup asking for how many squares per side to make the new grid.  Once entered the new grid should be generated _in the same total space as before_ \(e.g. 960px wide\) and now you've got a new sketch pad.
    1. Research `button` tags in HTML and how you can make a JavaScript function run when one is clicked.
